@@ -2,6 +2,7 @@ Path of the HTML
 
 For Log In:
 index->details2->s1
+
 For Sign Up:
 index->admin->addup
 
