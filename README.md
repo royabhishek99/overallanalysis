@@ -23,4 +23,4 @@ Thus, 8 semesters will have 8 pages(2 graphs for each semester), can't help it. 
 
 
 
-Now I want Akshay's code so that I can use it in s1.html and along with the table, can show the graph(s).
+Now I want Akshay's code so that I can use it in s1.html and along with the table and can show the graph(s).
