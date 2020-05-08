@@ -17,7 +17,7 @@ the "Get Started" button should redirect the page to the first page, i.e. "OverA
 
 
 
-Also, the what Apeksha said regarding all the tables being in the same page, ig it'll be a problem as we don't know 
+Also, what Apeksha said earlier regarding all the tables being in the same page, ig it'll be a problem as we don't know 
 how to dynamically update the page.
 Thus, 8 semesters will have 8 pages(2 graphs for each semester), can't help it. It is what it is.
 
