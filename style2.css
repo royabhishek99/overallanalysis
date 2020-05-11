@@ -3,7 +3,7 @@
   }
   
   body{
-    background:#92bde7;
+    background:#5aa4ed;
     color:#485e74;
     line-height:1.6;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -67,6 +67,15 @@ for button
    .dropdown:hover .drop-content{
     display:block;
    }
-
- for page load 
+   .logout{
+    width: 10%;
+    background: none;
+    border: 2px solid #485e74;
+    color: white;
+    padding: 5px 4px;
+    font-size: 18px;
+    cursor: pointer;
+    margin-left: 1069px;
+    margin-top: -269px;
+   }
  
