@@ -2,11 +2,11 @@ Path of the HTML
 
 For Log In:
 
-index(click login)->usn(click search)->details2->s1-8
+index(click login)->usn(click search)->details2(the one anmol created)->s1-8
 
 For adding a USN:
 
-index->usn (click on add USN)->addmarks(click on submit)->back to usn (then search)
+index->usn (click on add USN)->addstudentdetails(click to add marks)(created by anmol)->addmarks(click on submit)(created by anmol)->back to usn (then search)
 
 
 For Sign Up:
