@@ -2,8 +2,11 @@ Path of the HTML
 
 For Log In:
 
-index->details2->s1
+index(click login)->usn(click search)->details2->s1-8
 
+For adding a USN:
+
+index->usn (click on add USN)->addmarks(click on submit)->back to usn (then search)
 
 
 For Sign Up:
@@ -12,14 +15,13 @@ index->admin->addup
 
 
 
-The addup.html page is to be done my Anmol,
-the "Get Started" button should redirect the page to the first page, i.e. "OverAll Student Performace Analysis"
+The addup.html and addmarks.html page is to be done my Anmol,
+the "Get Started" (addup) and "Submit"(addmarks) button should redirect the page to the first page, i.e. "OverAll Student Performace Analysis"
 
 
 
-Also, what Apeksha said earlier regarding all the tables being in the same page, ig it'll be a problem as we don't know 
-how to dynamically update the page.
-Thus, 8 semesters will have 8 pages(2 graphs for each semester), can't help it. It is what it is.
+Also, what Apeksha, you just adjust the graph position, that part I could'nt do.
+Thus, 8 semesters will have 8 pages(2 graphs for each semester)
 
 
 
